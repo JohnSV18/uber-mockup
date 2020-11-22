@@ -1,0 +1,24 @@
+.navbar{
+  background-color: black;
+}
+.nav-link{
+  margin-right: 35px;
+}
+
+.ordering{
+  background-image: url('images/food.jpg');
+  height: 800px;
+  background-size: cover;
+}
+.delicious{
+  width: 250px;
+}
+.keep-safe{
+  background-color: black;
+}
+.btn-shade{
+  background-color: black;
+  color: white;
+
+}
+
